@@ -1,13 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NDgwYWYwYi1kNzRmLTRlZTUtYjU5ZC04MTEyNjc1YjZmMWIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIIVCr+T9Uc4UkW/GUrPPggAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxM2RkYmNlNS0wZDM3LTQxMWEtODNkOS1iNzVmODdhM2EzZDRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNodfnBRa+Di+uXSpRVdCsDwgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggsgaIBCdQveHEM77Mu5Gr33wZvvPW+vYgaXu/ZyyhihOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLfWQtZF/lryaIL6nKgskMcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCthw1AxDW2+ksu9gbmoTRJnqCFCBT31ZY3hU3KUltTyGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc0ODBhZjBiLWQ3NGYtNGVlNS1iNTlkLTgxMTI2NzViNmYxYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmI5NDQ1ZDM2LTFjYTMtNDQ1NS1iYTYxLWM5YzdhNGRkMTA4NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCyBogEJ1C94cQzvsy7kavffBm+89b69iBpe79nLKGKE6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggvhpccMcrJPqsJzZa9XsAnK4u4re83KGxATKPdxEp6omiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEEQ+n10+DLBsAVWnj+a4CMuqHB6A9ZKPsK+3SLpQQ/10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHqPpCNif2WJQ3yoYI7hvk4q3uejkmeDk0DuQU3ee8DAZa0KyuiNx7u75l/1jYXuN+iDsi1KIOLNrYHOQ0bWPXM=</c2pa:manifest></metadata>
-<style>.n{font:700 64px monospace;fill:#00d4ff;opacity:.18}.h{font:700 30px 'Segoe UI',Arial,sans-serif;fill:#e6f1ff}
-.c{font:15px 'Courier New',monospace;fill:#00d4ff}.s{font:13px 'Courier New',monospace;fill:#0a0f1a}
-.b{stroke-dasharray:1900;animation:d 6s ease-in-out infinite}@keyframes d{0%{stroke-dashoffset:1900}50%,100%{stroke-dashoffset:0}}
-.dot{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
-<rect width="600" height="220" rx="14" fill="#0a0f1a"/>
-<rect class="b" x="2" y="2" width="596" height="216" rx="13" fill="none" stroke="#00d4ff" stroke-width="2"/>
-<text x="30" y="85" class="n">02</text>
-<text x="30" y="135" class="h">PhysioGo</text>
-<text x="30" y="162" class="c">Healthcare · Mobile</text>
-<rect x="30" y="178" width="152" height="24" rx="12" fill="#00d4ff"/>
-<circle class="dot" cx="46" cy="190" r="4" fill="#0a0f1a"/><text x="58" y="195" class="s">In development</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <defs>
+    <linearGradient id="pg2-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070918"/>
+      <stop offset="50%" stop-color="#0E172E"/>
+      <stop offset="100%" stop-color="#070919"/>
+    </linearGradient>
+    <linearGradient id="card-ecg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <pattern id="ecg-dot-grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#4338CA" opacity="0.35"/>
+    </pattern>
+    
+<style>
+  @keyframes scanline { 0% { transform: translateY(0); opacity: 0.2; } 50% { opacity: 0.8; } 100% { transform: translateY(220px); opacity: 0.2; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.05); } }
+  @keyframes radar { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  @keyframes laser { 0% { transform: translateY(0); } 50% { transform: translateY(90px); } 100% { transform: translateY(0); } }
+  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  @keyframes dash { to { stroke-dashoffset: 0; } }
+  .radar-ray { transform-origin: 475px 165px; animation: radar 5s linear infinite; }
+  .scan-beam { animation: scanline 3.5s ease-in-out infinite; }
+  .laser-bar { animation: laser 2.8s ease-in-out infinite; }
+  .floating-app { animation: none; }
+  .pulse-glow { animation: pulse 2s ease-in-out infinite; }
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, monospace; }
+  .mono { font-family: "Consolas", "Courier New", monospace; }
+</style>
+
+  </defs>
+
+  <rect width="600" height="340" rx="16" fill="url(#pg2-bg)" stroke="#1E293B" stroke-width="1.6"/>
+  <rect width="600" height="340" rx="16" fill="url(#ecg-dot-grid)"/>
+
+  <!-- Background Animated Pulse Aura -->
+  <circle cx="480" cy="140" r="130" fill="#818CF8" opacity="0.08" filter="blur(45px)"/>
+
+  <!-- Continuous Flowing ECG Heartbeat Track across Card -->
+  <path d="M 0 215 H 240 L 255 185 L 268 245 L 282 175 L 295 215 H 600" fill="none" stroke="url(#card-ecg)" stroke-width="2" stroke-dasharray="600" stroke-dashoffset="600" class="pulse-flow" opacity="0.8" style="animation: dash 3.5s linear infinite;"/>
+
+  <!-- RIGHT SIDE: Clinical Schedule App Mockup -->
+  <g class="floating-app" transform="translate(390, 50)">
+    <!-- App Frame / Tablet -->
+    <rect width="170" height="235" rx="18" fill="#0B132B" stroke="#6366F1" stroke-width="1.8" filter="drop-shadow(0 15px 25px rgba(0,0,0,0.7))"/>
+    
+    <!-- App Bar -->
+    <rect x="0" y="0" width="170" height="32" rx="18" fill="#1E1B4B" opacity="0.8"/>
+    <text x="85" y="21" font-size="10.5" font-weight="700" fill="#C084FC" text-anchor="middle" letter-spacing="1">PHYSIOGO APP</text>
+    
+    <!-- Patient Card 1 -->
+    <rect x="12" y="42" width="146" height="52" rx="8" fill="#141E3C" stroke="#334155" stroke-width="0.8"/>
+    <circle cx="28" cy="62" r="10" fill="#4338CA"/>
+    <text x="28" y="66" class="mono" font-size="9" fill="#E0E7FF" text-anchor="middle">PT</text>
+    <text x="46" y="58" font-size="9.5" font-weight="700" fill="#F8FAFC">Patient Session</text>
+    <text x="46" y="72" class="mono" font-size="8" fill="#38BDF8">Rehab Stage 2 · 10:30 AM</text>
+    <text x="46" y="84" class="mono" font-size="7.5" fill="#10B981">✓ Confirmed</text>
+
+    <!-- Interactive Progress Ring -->
+    <g transform="translate(85, 142)">
+      <circle cx="0" cy="0" r="32" fill="none" stroke="#1E293B" stroke-width="5"/>
+      <circle cx="0" cy="0" r="32" fill="none" stroke="#818CF8" stroke-width="5" stroke-dasharray="200" stroke-dashoffset="45" stroke-linecap="round"/>
+      <text x="0" y="4" class="mono" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">85%</text>
+      <text x="0" y="16" class="mono" font-size="6.5" fill="#94A3B8" text-anchor="middle">MOBILITY</text>
+    </g>
+
+    <!-- Clinic Workflow Indicator -->
+    <rect x="12" y="190" width="146" height="24" rx="6" fill="#1E1B4B" stroke="#6366F1" stroke-width="0.8"/>
+    <circle cx="24" cy="202" r="3.5" fill="#818CF8" class="pulse-glow"/>
+    <text x="34" y="206" class="mono" font-size="8.5" font-weight="600" fill="#C084FC">WORKFLOW: OPTIMIZED</text>
+  </g>
+
+  <!-- LEFT SIDE: Project Content -->
+  <!-- Category Pill -->
+  <g transform="translate(36, 36)">
+    <rect width="215" height="26" rx="6" fill="#1E1B4B" stroke="#6366F1" stroke-width="1"/>
+    <circle cx="14" cy="13" r="4.5" fill="#A78BFA" class="pulse-glow"/>
+    <text x="26" y="17.5" class="mono" font-size="10.5" font-weight="700" fill="#C084FC" letter-spacing="1.2">02 // CLINICAL WORKFLOW</text>
+  </g>
+
+  <!-- Titles -->
+  <text x="36" y="112" font-size="32" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">PhysioGo</text>
+  <text x="36" y="136" font-size="12.5" font-weight="700" fill="#818CF8" letter-spacing="1">CLINIC APPOINTMENT &amp; PATIENT REHAB SUITE</text>
+
+  <!-- Descriptions -->
+  <text x="36" y="172" font-size="13" fill="#94A3B8">Tailored mobile clinical solution designed for physiotherapy</text>
+  <text x="36" y="192" font-size="13" fill="#94A3B8">scheduling, session progression tracking, patient exercise</text>
+  <text x="36" y="212" font-size="13" fill="#94A3B8">plans, and administrative operations.</text>
+
+  <!-- Status Badge -->
+  <g transform="translate(36, 234)">
+    <rect width="180" height="26" rx="5" fill="#181434" stroke="#4338CA" stroke-width="0.9"/>
+    <text x="12" y="17" class="mono" font-size="10" font-weight="600" fill="#A78BFA">🩺 IN ACTIVE DEVELOPMENT</text>
+  </g>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(36, 282)">
+    <rect x="0" y="0" width="86" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="43" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">React Native</text>
+
+    <rect x="94" y="0" width="56" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="122" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Expo</text>
+
+    <rect x="158" y="0" width="76" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="196" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">TypeScript</text>
+
+    <rect x="242" y="0" width="138" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="311" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Healthcare Workflows</text>
+  </g>
 </svg>

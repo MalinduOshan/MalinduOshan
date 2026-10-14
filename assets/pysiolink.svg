@@ -1,13 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1OTU5NGRhNC0wNDZkLTQ0MGMtOGE2Yi0xMzhhOWIxN2NmYjQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKI8eSSxJuzKy6SgJRFv158AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozNmVhMmQzZS1mOTZiLTQ3NzgtODkyNS00OTczMzg3MmM4ZThscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUgQy+uBN4Aq16/i6OQVvagAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggzpGdAgfA/rdyrPhgzqBnRUBtNDgxzqyFsFNkxwgBZCWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMge8CVpZ6TOSEIkxpkKLKMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCNt8JonEph1sn0GKLt2k0e+Gb8WPdgUZolOeEn0moykmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU5NTk0ZGE0LTA0NmQtNDQwYy04YTZiLTEzOGE5YjE3Y2ZiNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY1NzEyYmIxLTMxODItNDNlMC1hZDUxLWViZDVlNTg3N2IxNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDOkZ0CB8D+t3Ks+GDOoGdFQG00ODHOrIWwU2THCAFkJaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg5geiXxRnWz3hSIy9WOln1Fg8WQI6zc/mbeFKkoswbo+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiiWPp3v3wcQweJ7NuhFZ46sDaykUNL7nB9bJ+w7MrzF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQF2buxzR6uGMf+k5oTS1JPKAZu91Gh+fX8FIsZYrivkUDdAlBgivejoHK2FA3CiLItpCeZ4Gp/+opZJ+TzOFyoA=</c2pa:manifest></metadata>
-<style>.n{font:700 64px monospace;fill:#ffb86b;opacity:.18}.h{font:700 30px 'Segoe UI',Arial,sans-serif;fill:#e6f1ff}
-.c{font:15px 'Courier New',monospace;fill:#ffb86b}.s{font:13px 'Courier New',monospace;fill:#0a0f1a}
-.b{stroke-dasharray:1900;animation:d 6s ease-in-out infinite}@keyframes d{0%{stroke-dashoffset:1900}50%,100%{stroke-dashoffset:0}}
-.dot{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
-<rect width="600" height="220" rx="14" fill="#0a0f1a"/>
-<rect class="b" x="2" y="2" width="596" height="216" rx="13" fill="none" stroke="#ffb86b" stroke-width="2"/>
-<text x="30" y="85" class="n">04</text>
-<text x="30" y="135" class="h">PYSIOLINK</text>
-<text x="30" y="162" class="c">Clinic website</text>
-<rect x="30" y="178" width="136" height="24" rx="12" fill="#ffb86b"/>
-<circle class="dot" cx="46" cy="190" r="4" fill="#0a0f1a"/><text x="58" y="195" class="s">Live website</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <defs>
+    <linearGradient id="pl-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#041411"/>
+      <stop offset="50%" stop-color="#08221D"/>
+      <stop offset="100%" stop-color="#030F0C"/>
+    </linearGradient>
+    <pattern id="pl-dot-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#047857" opacity="0.4"/>
+    </pattern>
+    
+<style>
+  @keyframes scanline { 0% { transform: translateY(0); opacity: 0.2; } 50% { opacity: 0.8; } 100% { transform: translateY(220px); opacity: 0.2; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.05); } }
+  @keyframes radar { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  @keyframes laser { 0% { transform: translateY(0); } 50% { transform: translateY(90px); } 100% { transform: translateY(0); } }
+  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  @keyframes dash { to { stroke-dashoffset: 0; } }
+  .radar-ray { transform-origin: 475px 165px; animation: radar 5s linear infinite; }
+  .scan-beam { animation: scanline 3.5s ease-in-out infinite; }
+  .laser-bar { animation: laser 2.8s ease-in-out infinite; }
+  .floating-app { animation: none; }
+  .pulse-glow { animation: pulse 2s ease-in-out infinite; }
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, monospace; }
+  .mono { font-family: "Consolas", "Courier New", monospace; }
+</style>
+
+  </defs>
+
+  <rect width="600" height="340" rx="16" fill="url(#pl-bg)" stroke="#065F46" stroke-width="1.6"/>
+  <rect width="600" height="340" rx="16" fill="url(#pl-dot-grid)"/>
+
+  <!-- Emerald Live Aura -->
+  <circle cx="480" cy="140" r="130" fill="#10B981" opacity="0.08" filter="blur(45px)"/>
+
+  <!-- RIGHT SIDE: Live Web Application Browser Mockup -->
+  <g class="floating-app" transform="translate(380, 50)">
+    <!-- Browser Window Frame -->
+    <rect width="185" height="235" rx="12" fill="#041B17" stroke="#10B981" stroke-width="1.6" filter="drop-shadow(0 15px 25px rgba(0,0,0,0.7))"/>
+    
+    <!-- Browser Title Bar -->
+    <rect width="185" height="26" rx="12" fill="#062F29"/>
+    <circle cx="14" cy="13" r="3.2" fill="#EF4444"/>
+    <circle cx="24" cy="13" r="3.2" fill="#F59E0B"/>
+    <circle cx="34" cy="13" r="3.2" fill="#10B981"/>
+    <!-- URL search bar -->
+    <rect x="46" y="5" width="128" height="15" rx="4" fill="#064E3B"/>
+    <text x="110" y="16" class="mono" font-size="7.5" fill="#6EE7B7" text-anchor="middle">pysiolinkclinic.vercel.app</text>
+
+    <!-- Clinic Website Content Mockup -->
+    <!-- Brand & Banner -->
+    <rect x="14" y="38" width="60" height="10" rx="2" fill="#10B981"/>
+    <rect x="14" y="54" width="157" height="42" rx="6" fill="#064E3B" stroke="#059669" stroke-width="0.8"/>
+    <text x="24" y="70" font-size="9" font-weight="700" fill="#FFFFFF">Physiotherapy Services</text>
+    <text x="24" y="83" class="mono" font-size="7" fill="#A7F3D0">Therapy &amp; Rehab Clinic</text>
+
+    <!-- Service Feature Cards -->
+    <rect x="14" y="106" width="74" height="60" rx="6" fill="#062F29" stroke="#047857" stroke-width="0.8"/>
+    <circle cx="30" cy="122" r="6" fill="#10B981"/>
+    <text x="20" y="140" font-size="8" font-weight="700" fill="#E2E8F0">Consultation</text>
+    <text x="20" y="152" class="mono" font-size="6.5" fill="#94A3B8">Dr. Malik Ishan</text>
+
+    <rect x="97" y="106" width="74" height="60" rx="6" fill="#062F29" stroke="#047857" stroke-width="0.8"/>
+    <circle cx="113" cy="122" r="6" fill="#38BDF8"/>
+    <text x="103" y="140" font-size="8" font-weight="700" fill="#E2E8F0">Exercise PDF</text>
+    <text x="103" y="152" class="mono" font-size="6.5" fill="#94A3B8">Download Hub</text>
+
+    <!-- Live Status Banner at bottom -->
+    <rect x="14" y="180" width="157" height="34" rx="6" fill="#022C22" stroke="#10B981" stroke-width="0.8"/>
+    <circle cx="26" cy="197" r="4" fill="#34D399" class="pulse-glow"/>
+    <text x="36" y="201" class="mono" font-size="8.5" font-weight="700" fill="#6EE7B7">DEPLOYED ON VERCEL</text>
+  </g>
+
+  <!-- LEFT SIDE: Project Content -->
+  <!-- Category Pill -->
+  <g transform="translate(36, 36)">
+    <rect width="210" height="26" rx="6" fill="#062F29" stroke="#10B981" stroke-width="1"/>
+    <circle cx="14" cy="13" r="4.5" fill="#10B981" class="pulse-glow"/>
+    <text x="26" y="17.5" class="mono" font-size="10.5" font-weight="700" fill="#6EE7B7" letter-spacing="1.2">04 // PRODUCTION WEB</text>
+  </g>
+
+  <!-- Titles -->
+  <text x="36" y="112" font-size="32" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">PYSIOLINK</text>
+  <text x="36" y="136" font-size="12.5" font-weight="700" fill="#10B981" letter-spacing="1">PHYSIOTHERAPY CLINIC DIGITAL PORTAL</text>
+
+  <!-- Descriptions -->
+  <text x="36" y="172" font-size="13" fill="#94A3B8">Live clinic web application presenting specialized services,</text>
+  <text x="36" y="192" font-size="13" fill="#94A3B8">consultation schedules, treatment protocols, and dynamic</text>
+  <text x="36" y="212" font-size="13" fill="#94A3B8">patient exercise plan resource downloads.</text>
+
+  <!-- Live Link Button -->
+  <g transform="translate(36, 234)">
+    <rect width="180" height="26" rx="5" fill="#042F2C" stroke="#10B981" stroke-width="0.9"/>
+    <text x="12" y="17" class="mono" font-size="10" font-weight="600" fill="#A7F3D0">🌐 VISIT LIVE CLINIC SITE ↗</text>
+  </g>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(36, 282)">
+    <rect x="0" y="0" width="65" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="32" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Next.js</text>
+
+    <rect x="73" y="0" width="76" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="111" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">TypeScript</text>
+
+    <rect x="157" y="0" width="86" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="200" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Tailwind CSS</text>
+
+    <rect x="251" y="0" width="60" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="281" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Vercel</text>
+  </g>
 </svg>

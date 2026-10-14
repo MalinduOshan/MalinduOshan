@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Malindu Oshan — Software Developer, Cybersecurity and Networking. Animated header.">
+  <img src="assets/hero.svg" width="100%" alt="Malindu Oshan — Associate Cybersecurity Analyst. Animated header.">
 </p>
 
 <p align="center">
@@ -12,94 +12,125 @@
 
 ## Behind the code
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
-  <img src="assets/about.svg" width="100%" alt="Malindu Oshan's animated profile terminal: portrait morphing into React and code symbols beside education, certifications, skills, and contact details.">
-</picture>
+<p align="center">
+  <img src="assets/about-dark.svg" width="100%" alt="Malindu Oshan profile terminal showing cybersecurity, software engineering, networking, education, credentials, and contact details.">
+</p>
 
 <details>
 <summary><b>About me</b> — readable text version</summary>
 
-I'm **Malindu Oshan**, a software developer from **Sri Lanka**, studying **Bachelor of Information Technology** (2023–2026) and **Bachelor of Business Science** (2022–2026) at the **University of Moratuwa**.
+Final-year **Bachelor of Information Technology (BIT)** undergraduate at the **University of Moratuwa**, bridging scalable full-stack software development with defensive cybersecurity and network operations.
 
-I combine software development with business understanding to build practical tools. I've also worked as a **freelance developer and digital services specialist on Fiverr since 2020**, delivering websites, mobile apps, video editing, Excel tasks, and design work for international clients.
+Rather than treating software engineering and security as separate silos, I build secure, high-performance web applications while applying core principles of network defense, vulnerability assessment, and threat detection. In addition to academic coursework and projects, I operate an active freelance solutions service on Fiverr, delivering technical solutions to international clients with an emphasis on production-ready quality and clear communication.
 
-Currently learning **cybersecurity** · Certifications: **CCNA Routing & Switching**, **Cisco CyberOps** (Networking Academy) · Hobby: **chess** ♟️
+### Core technical competencies
+
+- **Cybersecurity &amp; SOC:** Threat monitoring, incident handling, network defense, vulnerability assessment, SIEM principles, packet analysis with Wireshark
+- **Software engineering:** Modern web applications with Next.js, React, Node.js, and Python; secure REST APIs; PostgreSQL, MongoDB, and Firebase
+- **Networking &amp; infrastructure:** Enterprise routing and switching, TCP/IP, ACLs, Linux system administration, Cisco Packet Tracer
+
+### Key credentials
+
+- **Cisco CyberOps Associate** — Cisco Networking Academy (issued November 2025)
+- **CCNA: Enterprise Networking, Security, and Automation** — Cisco Networking Academy (issued November 2025)
+- **(ISC)² Candidate** — ISC2
+- **Bachelor of Information Technology (BIT)** — University of Moratuwa (reading)
+
+### Career objective &amp; availability
+
+Completing final degree requirements in late 2026. Actively seeking **Junior Software Engineer, Associate Cybersecurity Analyst, or SOC Analyst** opportunities starting December 2026.
+
+### Work preferences
+
+Open to on-site or hybrid opportunities in Sri Lanka, international relocation to Singapore, the UAE, or the UK, and global remote roles.
+
+### Contact
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a38924b/) or reach out directly at [malinduoshan177@gmail.com](mailto:malinduoshan177@gmail.com).
+
+**Hobby:** Chess ♟️
 
 </details>
 
-## Selected projects
+<a id="selected-projects"></a>
+
+## Featured Engineering Projects
+
+<p align="center"><i>Mission-critical software, defensive cybersecurity systems, healthcare workflows, and local-first utilities.</i></p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-Some projects are still under development, so each card shows an honest status.
-
-<table>
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/malinduoshan/phishguard-phishing-detector"><img src="assets/phishguard.svg" width="100%" alt="01 PhishGuard — core features implemented"></a>
-<h3><a href="https://github.com/malinduoshan/phishguard-phishing-detector">PhishGuard</a></h3>
-<p>A cybersecurity mobile app that checks website links for phishing threats and raises user awareness.</p>
-<p><b>Implemented:</b> URL scanning and threat checking · VirusTotal API via a Cloudflare Worker · URLhaus threat intelligence · Firebase Authentication/Firestore · RSS2JSON security news · EmailJS feedback</p>
-<p><sub><b>React Native · Expo · TypeScript · Firebase · Cloudflare Workers</b></sub></p>
+<a href="https://github.com/malinduoshan/phishguard-phishing-detector"><img src="assets/phishguard.svg" width="100%" alt="PhishGuard — Threat Detection Mobile App"></a>
+<p align="right"><a href="https://github.com/malinduoshan/phishguard-phishing-detector"><b>Explore Repository ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/malinduoshan/physiogo-clinic-management"><img src="assets/physiogo.svg" width="100%" alt="02 PhysioGo — in development"></a>
-<h3><a href="https://github.com/malinduoshan/physiogo-clinic-management">PhysioGo</a></h3>
-<p>A mobile app for physiotherapy clinic appointments and workflow, designed to grow into a fuller clinic management solution.</p>
-<p><b>Implemented:</b> appointment booking interface · clinic-focused mobile UI · physiotherapy service workflow<br><b>Status:</b> in development</p>
-<p><sub><b>React Native · Expo · TypeScript · JavaScript</b></sub></p>
+<a href="https://github.com/malinduoshan/physiogo-clinic-management"><img src="assets/physiogo.svg" width="100%" alt="PhysioGo — Clinic Workflow Suite"></a>
+<p align="right"><a href="https://github.com/malinduoshan/physiogo-clinic-management"><b>Explore Repository ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/malinduoshan/smartbiz-pos-erp"><img src="assets/smartbiz.svg" width="100%" alt="03 SmartBiz POS and ERP"></a>
-<h3><a href="https://github.com/malinduoshan/smartbiz-pos-erp">SmartBiz POS &amp; ERP</a></h3>
-<p>A POS, inventory, and business management platform for supermarkets, grocery shops, and other retail businesses.</p>
-<p><b>Implemented / in progress:</b> cashier POS with barcode sales · products, inventory, stock movements · customers, staff, role-based access · purchasing and suppliers · reports and dashboard · bulk import/export · offline and sync foundation · printer and cash drawer foundation<br><b>Status:</b> core work and automated tests in progress; production deployment and subscription enforcement not yet verified</p>
-<p><sub><b>React Native · Expo · TypeScript · Firebase · AsyncStorage</b></sub></p>
+<a href="https://github.com/malinduoshan/smartbiz-pos-erp"><img src="assets/smartbiz.svg" width="100%" alt="SmartBiz POS and ERP System"></a>
+<p align="right"><a href="https://github.com/malinduoshan/smartbiz-pos-erp"><b>Explore Repository ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://pysiolinkclinic.vercel.app/"><img src="assets/pysiolink.svg" width="100%" alt="04 PYSIOLINK — live clinic website"></a>
-<h3><a href="https://pysiolinkclinic.vercel.app/">PYSIOLINK</a></h3>
-<p>A website for a physiotherapy clinic presenting its services and appointment-related information, related to PhysioGo.</p>
-<p><b>Includes:</b> clinic information and services · exercise plan PDF resource<br><b>Scope:</b> informational website (no patient database or clinic backend)</p>
-<p><a href="https://pysiolinkclinic.vercel.app/">Visit website ↗</a></p>
+<a href="https://pysiolinkclinic.vercel.app/"><img src="assets/pysiolink.svg" width="100%" alt="PYSIOLINK — Live Clinic Web Portal"></a>
+<p align="right"><a href="https://pysiolinkclinic.vercel.app/"><b>Visit Live Site ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/malinduoshan/vehicalert-app"><img src="assets/vehicalert.svg" width="60%" alt="VehicAlert — Vehicle Document Expiry Reminder App"></a>
+<p align="center"><a href="https://github.com/malinduoshan/vehicalert-app"><b>Explore Repository ↗</b></a></p>
 </td>
 </tr>
 </table>
 
+### Enterprise Network &amp; Security Lab
+
+A defensive infrastructure lab simulating multi-branch networking with VLAN segmentation, OSPF routing, perimeter ACL filtering, and packet-level inspection.
+
+**Stack:** Cisco Packet Tracer · Wireshark · Linux CLI · CCNA/CyberOps principles
+
 ## My toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,java,cs,c,php,html,firebase,mongodb,mysql,git,github,figma&perline=8" alt="React, TypeScript, JavaScript, Node.js, Python, Java, C#, C, PHP, HTML, Firebase, MongoDB, MySQL, Git, GitHub, Figma">
+  <img src="assets/tech-stack.png" width="100%" alt="Technology stack: TypeScript, JavaScript, Python, C#, PHP, Java, HTML5, CSS3, React Native, Expo, Next.js, React, Tailwind CSS, Node.js, Express.js, Firebase, Cloudflare Workers, PostgreSQL, MySQL, MongoDB, Firestore, Wireshark, Cisco Packet Tracer, Linux CLI, VirusTotal, Git, GitHub, Figma, Adobe Illustrator">
 </p>
 
 <p align="center">
-  <b>Mobile</b> · React Native / Expo<br>
-  <b>Backend &amp; Data</b> · Node.js / Firebase / MongoDB / MySQL<br>
-  <b>Security &amp; Networking</b> · Threat intelligence APIs / CCNA / CyberOps
+  <b>Core Languages</b> · TypeScript, JavaScript, Python, C#, PHP, Java, HTML5, CSS3<br>
+  <b>Frontend</b> · React Native, Expo, Next.js, React, Tailwind CSS<br>
+  <b>Backend</b> · Node.js, Express.js, Firebase, Cloudflare Workers<br>
+  <b>Databases</b> · PostgreSQL, MySQL, MongoDB, Firestore<br>
+  <b>Security</b> · Wireshark, Cisco Packet Tracer, Linux CLI, VirusTotal<br>
+  <b>Toolchain</b> · Git, GitHub, Figma, Adobe Illustrator
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## What I'm focused on
 
-- Learning cybersecurity and applying it in real tools.
-- Building practical software for clinics, retail, and everyday users.
-- Taking projects from prototype toward verified, reliable deployment.
+- Building practical software with secure APIs, validation, and reliable data flows.
+- Applying defensive security and threat intelligence principles to real products.
+- Preparing for Associate Cybersecurity Analyst and SOC opportunities.
 
 ### Let's build something useful.
 
-**[Email](mailto:malinduoshan177@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a38924b/)** · **[Portfolio](https://malinduoshan.github.io/Malindu/)**
+**[Email](mailto:malinduoshan177@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a38924b/)** · **[GitHub](https://github.com/malinduoshan)** · **[Portfolio](https://malinduoshan.github.io/Malindu/)** · **[Blog](https://traveleasesrilanka.blogspot.com/)**
 
 <a href="https://coff.ee/malinduoshan277"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a>
+
+<p align="center"><sub>Built with curiosity. Secured with care. Made in Sri Lanka. 🇱🇰</sub></p>
 
 ## Contribution arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malinduoshan/malinduoshan/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/malinduoshan/malinduoshan/output/github-snake.svg" width="100%" alt="Contribution snake collecting my GitHub activity squares.">
+  <img src="https://raw.githubusercontent.com/malinduoshan/malinduoshan/output/github-snake.svg" width="100%" alt="Contribution snake collecting Malindu Oshan's GitHub activity squares.">
 </picture>
 
-<p align="center"><sub>Refreshed every 12 hours.</sub></p>
+<p align="center"><sub>My contribution graph, in motion · refreshed every 12 hours.</sub></p>

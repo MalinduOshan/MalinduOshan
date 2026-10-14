@@ -1,8 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img"><title>02 — VehicAlert</title>
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#1b2544"/></linearGradient><linearGradient id="c"><stop stop-color="#34d399"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="760" height="240" rx="18" fill="url(#b)"/><rect x="1" y="1" width="758" height="238" rx="17" fill="none" stroke="#34d399" stroke-opacity=".65"/>
-<text x="30" y="42" fill="#34d399" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">02 / MOBILE PRODUCTIVITY</text>
-<text x="30" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">VehicAlert</text>
-<text x="30" y="132" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="17">Vehicle document expiry reminders</text>
-<g transform="translate(570 55)" fill="none" stroke="url(#c)" stroke-width="3"><rect width="120" height="120" rx="22"/><path d="M26 42l-14 18 14 18M94 42l14 18-14 18M70 28L48 92"/><circle cx="60" cy="60" r="43" stroke-opacity=".35"><animateTransform attributeName="transform" type="rotate" from="0 60 60" to="360 60 60" dur="18s" repeatCount="indefinite"/></circle></g>
-<path d="M30 195H730" stroke="#34d399" stroke-opacity=".35"/><text x="30" y="220" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13">MALINDU OSHAN • PROJECT SHOWCASE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <defs>
+    <linearGradient id="va-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C16"/>
+      <stop offset="50%" stop-color="#111B2E"/>
+      <stop offset="100%" stop-color="#070D18"/>
+    </linearGradient>
+    <linearGradient id="phone-body" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D182E"/>
+      <stop offset="100%" stop-color="#070D18"/>
+    </linearGradient>
+    <linearGradient id="amber-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EF4444"/>
+    </linearGradient>
+    <pattern id="va-pat" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#1E293B" stroke-width="0.75" opacity="0.6"/>
+      <circle cx="2" cy="2" r="1.1" fill="#38BDF8" opacity="0.3"/>
+    </pattern>
+
+    <style>
+      @keyframes floatApp { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+      @keyframes bellRing { 0%, 100% { transform: rotate(0); } 15% { transform: rotate(14deg); } 30% { transform: rotate(-14deg); } 45% { transform: rotate(10deg); } 60% { transform: rotate(-8deg); } 75% { transform: rotate(0); } }
+      @keyframes pulseDot { 0%, 100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 1; transform: scale(1.15); } }
+      @keyframes notifPop { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+      @keyframes laserScan { 0% { transform: translateY(0); opacity: 0.15; } 50% { opacity: 0.8; } 100% { transform: translateY(220px); opacity: 0.15; } }
+      .app-mockup { animation: none; }
+      .bell { transform-origin: 15px 4px; animation: bellRing 3s ease-in-out infinite; }
+      .pulse-beacon { animation: pulseDot 2s ease-in-out infinite; }
+      .notif-float { animation: none; }
+      .scan-line { animation: laserScan 3.6s ease-in-out infinite; }
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, monospace; }
+      .mono { font-family: "Consolas", "Courier New", monospace; }
+    </style>
+  </defs>
+
+  <!-- Base Card -->
+  <rect width="600" height="340" rx="16" fill="url(#va-bg)" stroke="#1E293B" stroke-width="1.8"/>
+  <rect width="600" height="340" rx="16" fill="url(#va-pat)"/>
+
+  <!-- Amber/Cyan Accent Glow in Top-Right -->
+  <circle cx="480" cy="130" r="130" fill="#F59E0B" opacity="0.07" filter="blur(45px)"/>
+  <circle cx="440" cy="220" r="100" fill="#38BDF8" opacity="0.05" filter="blur(40px)"/>
+
+  <!-- Scanning Laser Beam -->
+  <line x1="25" y1="0" x2="575" y2="0" stroke="#F59E0B" stroke-width="1.2" opacity="0.6" class="scan-line" filter="drop-shadow(0 0 6px #F59E0B)"/>
+
+  <!-- RIGHT SIDE: Mobile App Mockup (Local-first Vehicle Doc Expiry Tracker) -->
+  <g class="app-mockup" transform="translate(385, 45)">
+    <!-- Smartphone Bezel -->
+    <rect width="175" height="245" rx="20" fill="url(#phone-body)" stroke="#F59E0B" stroke-width="1.8" filter="drop-shadow(0 15px 25px rgba(0,0,0,0.75))"/>
+    
+    <!-- Top Notch & Speaker -->
+    <rect x="58" y="7" width="60" height="4" rx="2" fill="#1E293B"/>
+
+    <!-- App Header with Bell Icon -->
+    <g transform="translate(12, 22)">
+      <text x="0" y="14" font-size="11" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">VehicAlert</text>
+      <!-- Animated Bell Icon -->
+      <g class="bell" transform="translate(132, 2)">
+        <path d="M 6 3 C 6 1.5, 9 1.5, 9 3 C 12 4, 13 7, 13 10 L 14 12 L 1 12 L 2 10 C 2 7, 3 4, 6 3 Z" fill="#F59E0B"/>
+        <circle cx="7.5" cy="14" r="1.5" fill="#F59E0B"/>
+      </g>
+    </g>
+
+    <!-- Floating Top Notification Banner -->
+    <g class="notif-float" transform="translate(10, 44)">
+      <rect width="155" height="28" rx="7" fill="#241400" stroke="#D97706" stroke-width="0.9"/>
+      <circle cx="12" cy="14" r="3.5" fill="#EF4444" class="pulse-beacon"/>
+      <text x="22" y="13" class="mono" font-size="7.5" font-weight="700" fill="#FBBF24">ALERT // 7 DAYS LEFT</text>
+      <text x="22" y="22" class="mono" font-size="7" fill="#94A3B8">Revenue Licence Expiry</text>
+    </g>
+
+    <!-- Active Vehicle Selector Pill -->
+    <g transform="translate(10, 80)">
+      <rect width="155" height="34" rx="7" fill="#0C1424" stroke="#334155" stroke-width="0.8"/>
+      <!-- Car Icon silhouette -->
+      <path d="M 12 18 L 15 11 L 27 11 L 30 18 L 32 20 L 32 24 L 30 24 L 30 23 L 12 23 L 12 24 L 10 24 L 10 20 Z" fill="#38BDF8"/>
+      <text x="36" y="16" font-size="9" font-weight="700" fill="#FFFFFF">Toyota Vitz</text>
+      <text x="36" y="27" class="mono" font-size="7.5" fill="#38BDF8">WP CAB - 4821</text>
+      <rect x="110" y="8" width="38" height="18" rx="4" fill="#064E3B"/>
+      <text x="129" y="19" class="mono" font-size="7" font-weight="700" fill="#34D399" text-anchor="middle">ACTIVE</text>
+    </g>
+
+    <!-- Document Status Cards inside App -->
+    <!-- Doc 1: Revenue Licence (Expiring Soon - Amber) -->
+    <g transform="translate(10, 122)">
+      <rect width="155" height="32" rx="6" fill="#1A1104" stroke="#B45309" stroke-width="0.8"/>
+      <circle cx="12" cy="16" r="3.5" fill="#F59E0B"/>
+      <text x="22" y="14" font-size="8.5" font-weight="700" fill="#FDE68A">Revenue Licence</text>
+      <text x="22" y="24" class="mono" font-size="7" fill="#94A3B8">Due: 2026-10-21</text>
+      <rect x="100" y="7" width="48" height="18" rx="4" fill="#78350F"/>
+      <text x="124" y="19" class="mono" font-size="7" font-weight="700" fill="#FDE68A" text-anchor="middle">7 DAYS</text>
+    </g>
+
+    <!-- Doc 2: Insurance (Valid - Green) -->
+    <g transform="translate(10, 160)">
+      <rect width="155" height="32" rx="6" fill="#041E17" stroke="#059669" stroke-width="0.8"/>
+      <circle cx="12" cy="16" r="3.5" fill="#10B981"/>
+      <text x="22" y="14" font-size="8.5" font-weight="700" fill="#A7F3D0">Insurance (Full)</text>
+      <text x="22" y="24" class="mono" font-size="7" fill="#94A3B8">Due: 2027-04-12</text>
+      <rect x="100" y="7" width="48" height="18" rx="4" fill="#064E3B"/>
+      <text x="124" y="19" class="mono" font-size="7" font-weight="700" fill="#34D399" text-anchor="middle">ACTIVE</text>
+    </g>
+
+    <!-- Doc 3: Emission Test (VET) -->
+    <g transform="translate(10, 198)">
+      <rect width="155" height="32" rx="6" fill="#121827" stroke="#334155" stroke-width="0.8"/>
+      <circle cx="12" cy="16" r="3.5" fill="#38BDF8"/>
+      <text x="22" y="14" font-size="8.5" font-weight="700" fill="#E2E8F0">Emission Test (VET)</text>
+      <text x="22" y="24" class="mono" font-size="7" fill="#94A3B8">Due: 2026-12-05</text>
+      <rect x="100" y="7" width="48" height="18" rx="4" fill="#1E293B"/>
+      <text x="124" y="19" class="mono" font-size="7" font-weight="600" fill="#94A3B8" text-anchor="middle">52 DAYS</text>
+    </g>
+  </g>
+
+  <!-- LEFT SIDE: Project Content -->
+  <!-- Category Pill -->
+  <g transform="translate(36, 36)">
+    <rect width="215" height="26" rx="6" fill="#241400" stroke="#D97706" stroke-width="1"/>
+    <circle cx="14" cy="13" r="4.5" fill="#F59E0B" class="pulse-beacon"/>
+    <text x="26" y="17.5" class="mono" font-size="10.5" font-weight="700" fill="#FBBF24" letter-spacing="1.2">05 // VEHICLE &amp; DOC UTILITY</text>
+  </g>
+
+  <!-- Titles -->
+  <text x="36" y="112" font-size="32" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">VehicAlert</text>
+  <text x="36" y="136" font-size="12.5" font-weight="700" fill="#F59E0B" letter-spacing="1">VEHICLE DOCUMENT EXPIRY REMINDER APP</text>
+
+  <!-- Descriptions -->
+  <text x="36" y="172" font-size="13" fill="#94A3B8">Sri Lanka localized vehicle document reminder system tracking</text>
+  <text x="36" y="192" font-size="13" fill="#94A3B8">Revenue Licence, Insurance, Emission test &amp; Driving Licence.</text>
+  <text x="36" y="212" font-size="13" fill="#94A3B8">Multi-vehicle tracking, local alerts (30/14/7/3/1 days) &amp; logs.</text>
+
+  <!-- Local-first / Offline Badge -->
+  <g transform="translate(36, 234)">
+    <rect width="225" height="26" rx="5" fill="#0C1A2E" stroke="#0284C7" stroke-width="0.9"/>
+    <text x="12" y="17" class="mono" font-size="10" font-weight="600" fill="#38BDF8">🔒 100% OFFLINE / LOCAL-FIRST APP</text>
+  </g>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(36, 282)">
+    <rect x="0" y="0" width="86" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="43" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">React Native</text>
+
+    <rect x="94" y="0" width="56" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="122" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Expo</text>
+
+    <rect x="158" y="0" width="76" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="196" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">TypeScript</text>
+
+    <rect x="242" y="0" width="92" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="288" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">AsyncStorage</text>
+
+    <rect x="342" y="0" width="128" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="406" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">expo-notifications</text>
+  </g>
+</svg>

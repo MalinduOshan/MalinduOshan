@@ -1,13 +1,131 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMmIwODVmZi05NjQyLTRiYWMtOWY3MC0xMjcwODljZTJlMzIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJHZncTAMkLEJOcQ2+LXqq8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYThhMDA2Zi05MmZhLTQyZDYtOTQ3OC00NTIxNGRiOWNmZGFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJuB43/FOg3rAZ7zctN8/EwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggs6o5IgxOSxTRJwFb1O44Jt31hMGtx24E75US2+1HN/CkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOh7BeQD7G4Rvvh3r0BITpgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDM2zcx8AP7hc4n16hf67OpbYmwFnuw8xnKtTLmPY8awWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIyYjA4NWZmLTk2NDItNGJhYy05ZjcwLTEyNzA4OWNlMmUzMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE5ZmMyNDYyLWI2OTMtNGE5Yi1hYjQ4LTA0Mzg0YjFlMWZmNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCzqjkiDE5LFNEnAVvU7jgm3fWEwa3HbgTvlRLb7Uc38KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggivmt02f5apXmC8uEJ1zZpvhO9AJh+Sly5ArsbqWGc56iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHx4R6Nnj1clfB/PMokt+GOs8ApIhbytCjApewnD7EWZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLnmNwr1BvRZl30QbfmB7rvC7kSstZnkEPG8RZGrScnSIG3tiSVkiUkPA/jyA/Bym+/H/pks2+NDjgGMAGSlNK0=</c2pa:manifest></metadata>
-<style>.n{font:700 64px monospace;fill:#a78bfa;opacity:.18}.h{font:700 30px 'Segoe UI',Arial,sans-serif;fill:#e6f1ff}
-.c{font:15px 'Courier New',monospace;fill:#a78bfa}.s{font:13px 'Courier New',monospace;fill:#0a0f1a}
-.b{stroke-dasharray:1900;animation:d 6s ease-in-out infinite}@keyframes d{0%{stroke-dashoffset:1900}50%,100%{stroke-dashoffset:0}}
-.dot{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
-<rect width="600" height="220" rx="14" fill="#0a0f1a"/>
-<rect class="b" x="2" y="2" width="596" height="216" rx="13" fill="none" stroke="#a78bfa" stroke-width="2"/>
-<text x="30" y="85" class="n">03</text>
-<text x="30" y="135" class="h">SmartBiz POS &amp; ERP</text>
-<text x="30" y="162" class="c">Retail · Business software</text>
-<rect x="30" y="178" width="360" height="24" rx="12" fill="#a78bfa"/>
-<circle class="dot" cx="46" cy="190" r="4" fill="#0a0f1a"/><text x="58" y="195" class="s">Core + tests · deployment to be verified</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <defs>
+    <linearGradient id="sb-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0C16"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#080C14"/>
+    </linearGradient>
+    <linearGradient id="laser-bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#EF4444" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="dot-pat" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#334155" opacity="0.4"/>
+    </pattern>
+    
+<style>
+  @keyframes scanline { 0% { transform: translateY(0); opacity: 0.2; } 50% { opacity: 0.8; } 100% { transform: translateY(220px); opacity: 0.2; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.05); } }
+  @keyframes radar { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  @keyframes laser { 0% { transform: translateY(0); } 50% { transform: translateY(90px); } 100% { transform: translateY(0); } }
+  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  @keyframes dash { to { stroke-dashoffset: 0; } }
+  .radar-ray { transform-origin: 475px 165px; animation: radar 5s linear infinite; }
+  .scan-beam { animation: scanline 3.5s ease-in-out infinite; }
+  .laser-bar { animation: laser 2.8s ease-in-out infinite; }
+  .floating-app { animation: none; }
+  .pulse-glow { animation: pulse 2s ease-in-out infinite; }
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, monospace; }
+  .mono { font-family: "Consolas", "Courier New", monospace; }
+</style>
+
+  </defs>
+
+  <rect width="600" height="340" rx="16" fill="url(#sb-bg)" stroke="#1E293B" stroke-width="1.6"/>
+  <rect width="600" height="340" rx="16" fill="url(#dot-pat)"/>
+
+  <!-- Amber Gold Glow -->
+  <circle cx="480" cy="140" r="120" fill="#F59E0B" opacity="0.07" filter="blur(40px)"/>
+
+  <!-- RIGHT SIDE: Retail POS & Scanner Terminal Mockup -->
+  <g class="floating-app" transform="translate(390, 50)">
+    <!-- POS Terminal Screen -->
+    <rect width="170" height="235" rx="14" fill="#0A0F1D" stroke="#D97706" stroke-width="1.8" filter="drop-shadow(0 15px 25px rgba(0,0,0,0.7))"/>
+    
+    <!-- Top Register Banner -->
+    <rect x="0" y="0" width="170" height="28" rx="14" fill="#241400"/>
+    <text x="14" y="18" class="mono" font-size="8.5" font-weight="700" fill="#FBBF24">POS TERMINAL #01</text>
+    <circle cx="152" cy="14" r="3.5" fill="#10B981"/>
+
+    <!-- Barcode Box with Moving Laser -->
+    <g transform="translate(14, 38)">
+      <rect width="142" height="60" rx="6" fill="#030712" stroke="#374151" stroke-width="0.8"/>
+      
+      <!-- Actual Barcode pattern -->
+      <g transform="translate(14, 15)">
+        <line x1="0" y1="0" x2="0" y2="30" stroke="#94A3B8" stroke-width="2"/>
+        <line x1="6" y1="0" x2="6" y2="30" stroke="#94A3B8" stroke-width="4"/>
+        <line x1="15" y1="0" x2="15" y2="30" stroke="#94A3B8" stroke-width="1"/>
+        <line x1="22" y1="0" x2="22" y2="30" stroke="#94A3B8" stroke-width="3"/>
+        <line x1="32" y1="0" x2="32" y2="30" stroke="#94A3B8" stroke-width="5"/>
+        <line x1="44" y1="0" x2="44" y2="30" stroke="#94A3B8" stroke-width="2"/>
+        <line x1="52" y1="0" x2="52" y2="30" stroke="#94A3B8" stroke-width="4"/>
+        <line x1="64" y1="0" x2="64" y2="30" stroke="#94A3B8" stroke-width="1.5"/>
+        <line x1="72" y1="0" x2="72" y2="30" stroke="#94A3B8" stroke-width="3"/>
+        <line x1="82" y1="0" x2="82" y2="30" stroke="#94A3B8" stroke-width="5"/>
+        <line x1="94" y1="0" x2="94" y2="30" stroke="#94A3B8" stroke-width="2"/>
+        <line x1="104" y1="0" x2="104" y2="30" stroke="#94A3B8" stroke-width="4"/>
+        <line x1="114" y1="0" x2="114" y2="30" stroke="#94A3B8" stroke-width="2"/>
+      </g>
+
+      <!-- Laser Scanner Beam -->
+      <g class="laser-bar">
+        <line x1="4" y1="5" x2="138" y2="5" stroke="url(#laser-bar-grad)" stroke-width="2.2" filter="drop-shadow(0 0 5px #EF4444)"/>
+      </g>
+    </g>
+
+    <!-- Cashier Total Screen -->
+    <rect x="14" y="108" width="142" height="45" rx="6" fill="#1E1E2E" stroke="#334155" stroke-width="0.8"/>
+    <text x="24" y="125" class="mono" font-size="8" fill="#94A3B8">ITEM: KEELLS MILK x2</text>
+    <text x="24" y="142" class="mono" font-size="12" font-weight="700" fill="#10B981">LKR 2,450.00</text>
+
+    <!-- Dynamic Inventory Chart Bars -->
+    <g transform="translate(18, 165)">
+      <rect x="0" y="25" width="18" height="35" rx="3" fill="#F59E0B" opacity="0.8"/>
+      <rect x="28" y="12" width="18" height="48" rx="3" fill="#10B981" opacity="0.8"/>
+      <rect x="56" y="32" width="18" height="28" rx="3" fill="#38BDF8" opacity="0.8"/>
+      <rect x="84" y="8" width="18" height="52" rx="3" fill="#F59E0B" opacity="0.95"/>
+      <text x="114" y="36" class="mono" font-size="8" fill="#FBBF24">STOCK</text>
+      <text x="114" y="47" class="mono" font-size="8" fill="#34D399">+38%</text>
+    </g>
+  </g>
+
+  <!-- LEFT SIDE: Project Content -->
+  <!-- Category Pill -->
+  <g transform="translate(36, 36)">
+    <rect width="205" height="26" rx="6" fill="#241400" stroke="#D97706" stroke-width="1"/>
+    <circle cx="14" cy="13" r="4.5" fill="#F59E0B" class="pulse-glow"/>
+    <text x="26" y="17.5" class="mono" font-size="10.5" font-weight="700" fill="#FBBF24" letter-spacing="1.2">03 // RETAIL ERP &amp; POS</text>
+  </g>
+
+  <!-- Titles -->
+  <text x="36" y="112" font-size="32" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">SmartBiz POS &amp; ERP</text>
+  <text x="36" y="136" font-size="12.5" font-weight="700" fill="#F59E0B" letter-spacing="1">SUPERMARKET &amp; INVENTORY SUITE</text>
+
+  <!-- Descriptions -->
+  <text x="36" y="172" font-size="13" fill="#94A3B8">High-speed barcode checkout POS, inventory stock tracker,</text>
+  <text x="36" y="192" font-size="13" fill="#94A3B8">supplier purchasing, and role-based staff administration.</text>
+  <text x="36" y="212" font-size="13" fill="#94A3B8">Built with offline local caching &amp; background sync foundation.</text>
+
+  <!-- Feature Badge -->
+  <g transform="translate(36, 234)">
+    <rect width="185" height="26" rx="5" fill="#1C1808" stroke="#D97706" stroke-width="0.9"/>
+    <text x="12" y="17" class="mono" font-size="10" font-weight="600" fill="#FBBF24">⚡ BARCODE SCAN &amp; OFFLINE POS</text>
+  </g>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(36, 282)">
+    <rect x="0" y="0" width="86" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="43" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">React Native</text>
+
+    <rect x="94" y="0" width="56" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="122" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Expo</text>
+
+    <rect x="158" y="0" width="76" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="196" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">TypeScript</text>
+
+    <rect x="242" y="0" width="68" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="0.8"/>
+    <text x="276" y="16" class="mono" font-size="10" fill="#E2E8F0" text-anchor="middle">Firebase</text>
+  </g>
 </svg>
