@@ -189,3 +189,6 @@ Have a project, opportunity, or idea to discuss? Feel free to reach out.
 <p align="center">
   <i>Thanks for visiting my profile! Keep learning, keep building, and keep exploring. ✨</i>
 </p>
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MalinduOshan/MalinduOshan/output/github-contribution-grid-snake.svg)
