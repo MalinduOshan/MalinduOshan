@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180"><defs><linearGradient id="g"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs><rect width="1000" height="180" rx="20" fill="#0b1220" stroke="#334155"/><text x="500" y="36" fill="#f8fafc" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">TOOLS I USE &amp; EXPLORE</text>
+<g font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+<g><rect x="25" y="58" width="145" height="42" rx="10" fill="#102a43" stroke="#38bdf8"/><text x="97" y="84" fill="#7dd3fc">JavaScript</text></g>
+<g><rect x="190" y="58" width="145" height="42" rx="10" fill="#21183e" stroke="#a78bfa"/><text x="262" y="84" fill="#c4b5fd">React Native</text></g>
+<g><rect x="355" y="58" width="145" height="42" rx="10" fill="#102e2b" stroke="#34d399"/><text x="427" y="84" fill="#a7f3d0">TypeScript</text></g>
+<g><rect x="520" y="58" width="145" height="42" rx="10" fill="#102a43" stroke="#38bdf8"/><text x="592" y="84" fill="#7dd3fc">Firebase</text></g>
+<g><rect x="685" y="58" width="125" height="42" rx="10" fill="#21183e" stroke="#a78bfa"/><text x="747" y="84" fill="#c4b5fd">Git</text></g>
+<g><rect x="830" y="58" width="145" height="42" rx="10" fill="#102e2b" stroke="#34d399"/><text x="902" y="84" fill="#a7f3d0">Python</text></g>
+</g><path d="M55 127H945" stroke="url(#g)" stroke-width="2"/><text x="500" y="151" fill="#94a3b8" text-anchor="middle" font-family="Arial,sans-serif" font-size="13">LEARN • BUILD • TEST • IMPROVE</text></svg>
