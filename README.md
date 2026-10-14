@@ -1,194 +1,105 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Malindu Oshan — Software Developer, IT Undergraduate, and Cybersecurity Learner. Custom animated neon header." />
+  <img src="assets/hero.svg" width="100%" alt="Malindu Oshan — Software Developer, Cybersecurity and Networking. Animated header.">
 </p>
 
 <p align="center">
-  <a href="mailto:malinduoshan277@gmail.com"><img src="assets/email.svg" width="220" alt="Email Malindu Oshan" /></a>
-  <a href="https://www.linkedin.com/in/malindu-oshan-b6a38924b/"><img src="assets/linkedin.svg" width="220" alt="Connect on LinkedIn" /></a>
-  <a href="#selected-projects"><img src="assets/projects.svg" width="220" alt="Explore my projects" /></a>
+  <a href="mailto:malinduoshan177@gmail.com"><img src="assets/email.svg" width="140" alt="Email Malindu"></a>
+  <a href="https://www.linkedin.com/in/malindu-oshan-b6a38924b/"><img src="assets/linkedin.svg" width="140" alt="Connect on LinkedIn"></a>
+  <a href="#selected-projects"><img src="assets/projects.svg" width="196" alt="Explore my projects"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Developer;IT+Undergraduate+at+University+of+Moratuwa;Exploring+Cybersecurity+and+Networking;Building+useful+mobile+applications" alt="Animated typing introduction" />
-</p>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Behind the code
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/about-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/about-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
-  <img src="assets/about-light.svg" width="100%" alt="Custom illustrated terminal-style panel about Malindu Oshan, an IT undergraduate interested in software development, mobile apps, and cybersecurity." />
+  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
+  <img src="assets/about.svg" width="100%" alt="Malindu Oshan's animated profile terminal: portrait morphing into React and code symbols beside education, certifications, skills, and contact details.">
 </picture>
 
 <details>
-  <summary><b>About me</b> — readable text version</summary>
+<summary><b>About me</b> — readable text version</summary>
 
-I'm **Malindu Oshan**, an Information Technology undergraduate at the **University of Moratuwa, Sri Lanka**. I enjoy building practical applications, exploring new technologies, and learning how software can solve real problems.
+I'm **Malindu Oshan**, a software developer from **Sri Lanka**, studying **Bachelor of Information Technology** (2023–2026) and **Bachelor of Business Science** (2022–2026) at the **University of Moratuwa**.
 
-- 🎓 **Currently working on:** University studies and software projects
-- 🔐 **Currently learning:** Cybersecurity and computer networking
-- 👨‍💻 **My projects and portfolio:** [malinduoshan.github.io/Malindu](https://malinduoshan.github.io/Malindu/)
-- 📝 **Articles:** [Travel Ease Sri Lanka](https://traveleasesrilanka.blogspot.com/)
-- 📫 **Email:** [malinduoshan277@gmail.com](mailto:malinduoshan277@gmail.com)
-- 📄 **Experience / portfolio:** [View my website](https://malinduoshan.github.io/Malindu/)
-- ♟️ **Hobby:** I love to play chess
+I combine software development with business understanding to build practical tools. I've also worked as a **freelance developer and digital services specialist on Fiverr since 2020**, delivering websites, mobile apps, video editing, Excel tasks, and design work for international clients.
 
-I'm interested in improving my software development skills through hands-on projects and learning more about cybersecurity and networking.
-
-[Email](mailto:malinduoshan277@gmail.com) · [LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a38924b/) · [GitHub](https://github.com/MalinduOshan)
+Currently learning **cybersecurity** · Certifications: **CCNA Routing & Switching**, **Cisco CyberOps** (Networking Academy) · Hobby: **chess** ♟️
 
 </details>
 
 ## Selected projects
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="">
 
-**Ideas into applications.** A selection of projects I am building and learning from.
+Some projects are still under development, so each card shows an honest status.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MalinduOshan?tab=repositories"><img src="assets/phishguard.svg" width="100%" alt="01 — PhishGuard, mobile phishing detection and cybersecurity awareness" /></a>
-      <h3><a href="https://github.com/MalinduOshan?tab=repositories">PhishGuard</a></h3>
-      <p>A mobile-based phishing detector and cybersecurity awareness application concept, bringing URL analysis together with learning and quiz features.</p>
-      <p><sub><b>React Native · Expo · JavaScript/TypeScript · URL analysis · Threat-intelligence integrations</b></sub></p>
-      <p><a href="https://github.com/MalinduOshan?tab=repositories">Explore repositories ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MalinduOshan?tab=repositories"><img src="assets/vehicalert.svg" width="100%" alt="02 — VehicAlert, vehicle document expiry reminders" /></a>
-      <h3><a href="https://github.com/MalinduOshan?tab=repositories">VehicAlert</a></h3>
-      <p>A mobile reminder app concept to manage vehicle information and track important document expiry dates with local notifications.</p>
-      <p><sub><b>React Native · Expo Router · TypeScript · AsyncStorage · Local notifications</b></sub></p>
-      <p><a href="https://github.com/MalinduOshan?tab=repositories">Explore repositories ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://malinduoshan.github.io/Malindu/"><img src="assets/portfolio.svg" width="100%" alt="03 — Personal portfolio website" /></a>
-      <h3><a href="https://malinduoshan.github.io/Malindu/">Personal Portfolio</a></h3>
-      <p>My portfolio website for sharing profile information and project work.</p>
-      <p><sub><b>Web development · HTML · CSS · JavaScript</b></sub></p>
-      <p><a href="https://malinduoshan.github.io/Malindu/">Visit website ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 More projects</h3>
-      <p>Browse my repositories for additional academic work, experiments, and future projects.</p>
-      <p><a href="https://github.com/MalinduOshan?tab=repositories">Explore all repositories ↗</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/malinduoshan/phishguard-phishing-detector"><img src="assets/phishguard.svg" width="100%" alt="01 PhishGuard — core features implemented"></a>
+<h3><a href="https://github.com/malinduoshan/phishguard-phishing-detector">PhishGuard</a></h3>
+<p>A cybersecurity mobile app that checks website links for phishing threats and raises user awareness.</p>
+<p><b>Implemented:</b> URL scanning and threat checking · VirusTotal API via a Cloudflare Worker · URLhaus threat intelligence · Firebase Authentication/Firestore · RSS2JSON security news · EmailJS feedback</p>
+<p><sub><b>React Native · Expo · TypeScript · Firebase · Cloudflare Workers</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/malinduoshan/physiogo-clinic-management"><img src="assets/physiogo.svg" width="100%" alt="02 PhysioGo — in development"></a>
+<h3><a href="https://github.com/malinduoshan/physiogo-clinic-management">PhysioGo</a></h3>
+<p>A mobile app for physiotherapy clinic appointments and workflow, designed to grow into a fuller clinic management solution.</p>
+<p><b>Implemented:</b> appointment booking interface · clinic-focused mobile UI · physiotherapy service workflow<br><b>Status:</b> in development</p>
+<p><sub><b>React Native · Expo · TypeScript · JavaScript</b></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/malinduoshan/smartbiz-pos-erp"><img src="assets/smartbiz.svg" width="100%" alt="03 SmartBiz POS and ERP"></a>
+<h3><a href="https://github.com/malinduoshan/smartbiz-pos-erp">SmartBiz POS &amp; ERP</a></h3>
+<p>A POS, inventory, and business management platform for supermarkets, grocery shops, and other retail businesses.</p>
+<p><b>Implemented / in progress:</b> cashier POS with barcode sales · products, inventory, stock movements · customers, staff, role-based access · purchasing and suppliers · reports and dashboard · bulk import/export · offline and sync foundation · printer and cash drawer foundation<br><b>Status:</b> core work and automated tests in progress; production deployment and subscription enforcement not yet verified</p>
+<p><sub><b>React Native · Expo · TypeScript · Firebase · AsyncStorage</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pysiolinkclinic.vercel.app/"><img src="assets/pysiolink.svg" width="100%" alt="04 PYSIOLINK — live clinic website"></a>
+<h3><a href="https://pysiolinkclinic.vercel.app/">PYSIOLINK</a></h3>
+<p>A website for a physiotherapy clinic presenting its services and appointment-related information, related to PhysioGo.</p>
+<p><b>Includes:</b> clinic information and services · exercise plan PDF resource<br><b>Scope:</b> informational website (no patient database or clinic backend)</p>
+<p><a href="https://pysiolinkclinic.vercel.app/">Visit website ↗</a></p>
+</td>
+</tr>
 </table>
-
-<details>
-  <summary><b>Inside the engineering</b> — a closer look</summary>
-
-  - **PhishGuard:** A mobile-oriented project focused on phishing URL checks and cybersecurity awareness. Detection outcomes depend on the implementation and external service availability.
-  - **VehicAlert:** Designed around local vehicle/document data and expiry reminders, with an offline-friendly approach.
-  - **Portfolio:** A public place to present my profile and work.
-
-  Repository links above currently point to my GitHub repository list because project-specific repository URLs have not been confirmed in this README. Replace them with direct project links once the public repository names are confirmed.
-</details>
 
 ## My toolkit
 
-<p align="center"><b>THE TOOLS AND TECHNOLOGIES I USE OR EXPLORE</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="assets/tech-stack.svg" width="100%" alt="Custom technology-stack graphic" /></a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,java,cs,c,php,html,firebase,mongodb,mysql,git,github,figma&perline=8" alt="React, TypeScript, JavaScript, Node.js, Python, Java, C#, C, PHP, HTML, Firebase, MongoDB, MySQL, Git, GitHub, Figma">
 </p>
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C sharp" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <b>Mobile</b> · React Native / Expo<br>
+  <b>Backend &amp; Data</b> · Node.js / Firebase / MongoDB / MySQL<br>
+  <b>Security &amp; Networking</b> · Threat intelligence APIs / CCNA / CyberOps
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,reactnative,expo,firebase,git,github,vscode&theme=dark" alt="TypeScript, React Native, Expo, Firebase, Git, GitHub, VS Code" />
-</p>
-
-<p align="center">
-  <b>Frontend & Mobile</b> · HTML · JavaScript · React · React Native · Expo<br/>
-  <b>Programming</b> · C · C# · Java · PHP · Python · TypeScript<br/>
-  <b>Databases</b> · MySQL · MongoDB<br/>
-  <b>Tools</b> · Git · GitHub · VS Code · Adobe Illustrator<br/>
-  <b>Exploring</b> · Cybersecurity · Networking
-</p>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## GitHub at a glance
-
-<a href="https://github.com/MalinduOshan?tab=repositories"><img src="assets/github-snapshot.svg" width="100%" alt="Custom GitHub profile snapshot graphic" /></a>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MalinduOshan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Malindu's GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinduOshan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MalinduOshan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MalinduOshan&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-</p>
-
-<sub>GitHub statistics are generated by external services and may occasionally be unavailable or delayed.</sub>
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## What I'm focused on
 
-- Building and improving mobile applications.
-- Learning cybersecurity and networking fundamentals.
-- Improving code quality, testing, and application reliability.
-- Learning through hands-on projects and continuous practice.
+- Learning cybersecurity and applying it in real tools.
+- Building practical software for clinics, retail, and everyday users.
+- Taking projects from prototype toward verified, reliable deployment.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+### Let's build something useful.
 
-## Let's build something useful
+**[Email](mailto:malinduoshan177@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a38924b/)** · **[Portfolio](https://malinduoshan.github.io/Malindu/)**
 
-Have a project, opportunity, or idea to discuss? Feel free to reach out.
-
-<p align="center">
-  <a href="mailto:malinduoshan277@gmail.com"><img src="assets/email.svg" width="200" alt="Email Malindu" /></a>
-  <a href="https://www.linkedin.com/in/malindu-oshan-b6a38924b/"><img src="assets/linkedin.svg" width="200" alt="Connect on LinkedIn" /></a>
-</p>
-
-<p align="center"><sub>Built with curiosity. Powered by code. Made in Sri Lanka 🇱🇰</sub></p>
+<a href="https://coff.ee/malinduoshan277"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a>
 
 ## Contribution arcade
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalinduOshan/MalinduOshan/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MalinduOshan/MalinduOshan/output/github-snake.svg" width="100%" alt="Animated snake following my GitHub contribution graph" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malinduoshan/malinduoshan/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/malinduoshan/malinduoshan/output/github-snake.svg" width="100%" alt="Contribution snake collecting my GitHub activity squares.">
+</picture>
 
-<sub>The contribution snake is generated by the GitHub Actions workflow included in this repository package.</sub>
-
-## Support
-
-<p>
-  <a href="https://coff.ee/malinduoshan277" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/malinduoshan277" />
-  </a>
-</p>
-<br clear="left" />
-
-<p align="center">
-  <i>Thanks for visiting my profile! Keep learning, keep building, and keep exploring. ✨</i>
-</p>
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MalinduOshan/MalinduOshan/output/github-contribution-grid-snake.svg)
+<p align="center"><sub>Refreshed every 12 hours.</sub></p>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1010" width="420" height="1010">
+<style>
+.mono{font-family:'Courier New',monospace}
+.lb{font:12px 'Courier New',monospace;fill:#00d4ff}.vl{font-family:'Courier New',monospace;fill:#e6f1ff}.gr{fill:#00ffa3}
+.sc{opacity:0}
+.s0{animation:a0 12s infinite}.s1{animation:a1 12s infinite}.s2{animation:a2 12s infinite}
+@keyframes a0{0%,2%{opacity:0}6%,30%{opacity:1}34%,100%{opacity:0}}
+@keyframes a1{0%,34%{opacity:0}38%,63%{opacity:1}67%,100%{opacity:0}}
+@keyframes a2{0%,67%{opacity:0}71%,96%{opacity:1}100%{opacity:0}}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.live{animation:p 1.5s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+</style>
+<rect width="420" height="1010" rx="16" fill="#0a0f1a"/>
+<text x="210.0" y="34" text-anchor="middle" class="mono" font-size="11" fill="#6b7f99" letter-spacing="3">ENGINEER / BUILDER / ALWAYS LEARNING</text>
+<text x="210.0" y="66" text-anchor="middle" class="mono" font-size="20" fill="#a78bfa">Software Developer<tspan class="cur">_</tspan></text>
+<rect x="10" y="80" width="400" height="920" rx="12" fill="#0d1424" stroke="#1d2a44"/>
+<circle cx="30" cy="97" r="5" fill="#ff5f56"/><circle cx="48" cy="97" r="5" fill="#ffbd2e"/><circle cx="66" cy="97" r="5" fill="#27c93f"/>
+<text x="210.0" y="101" text-anchor="middle" class="mono" font-size="11" fill="#6b7f99">malindu@github:~ / profile.sh --live</text>
+<text x="60" y="104" class="mono" font-size="11" fill="#00d4ff">VISUAL.MAP</text>
+<text x="360" y="104" text-anchor="end" class="mono" font-size="11" fill="#6b7f99">01 / 03</text>
+<rect x="60" y="110" width="300" height="300" fill="#080d19" stroke="#1d2a44"/>
+<g stroke="#00d4ff" stroke-width="2" fill="none"><path d="M60 128V110H78"/><path d="M342 110H360V128"/><path d="M60 392V410H78"/><path d="M342 410H360V392"/></g>
+<g class="sc s0"><g fill="none" stroke="#a78bfa" stroke-width="4.3" stroke-linecap="round" stroke-dasharray="0.1 5.5"><circle cx="210.0" cy="219.21052631578948" r="38.178947368421056"/><circle cx="210.0" cy="219.21052631578948" r="27.094736842105263"/><path d="M136.10526315789474 342.36842105263156 Q142.26315789473682 268.4736842105263 210.0 268.4736842105263 Q277.7368421052632 268.4736842105263 283.89473684210526 342.36842105263156"/><path d="M153.34736842105264 342.36842105263156 Q158.2736842105263 283.86842105263156 210.0 283.86842105263156 Q261.7263157894737 283.86842105263156 266.65263157894736 342.36842105263156"/></g><text x="210.0" y="254.92631578947368" text-anchor="middle" font-family="monospace" font-size="21" fill="#a78bfa" opacity=".7">MO</text></g><text class="sc s0" x="210.0" y="396" text-anchor="middle" font-family="monospace" font-size="11" fill="#00d4ff">MALINDU / SOFTWARE DEVELOPER</text><g class="sc s1"><g fill="none" stroke="#a78bfa" stroke-width="5.2" stroke-linecap="round" stroke-dasharray="0.1 6.9"><ellipse cx="210.0" cy="250.0" rx="82.5" ry="31.263157894736842" transform="rotate(0 210.0 250.0)"/><ellipse cx="210.0" cy="250.0" rx="82.5" ry="31.263157894736842" transform="rotate(60 210.0 250.0)"/><ellipse cx="210.0" cy="250.0" rx="82.5" ry="31.263157894736842" transform="rotate(120 210.0 250.0)"/></g><circle cx="210.0" cy="250.0" r="11.289473684210527" fill="#a78bfa"/></g><text class="sc s1" x="210.0" y="396" text-anchor="middle" font-family="monospace" font-size="11" fill="#00d4ff">REACT NATIVE / APPS THAT WORK</text><g class="sc s2"><g fill="none" stroke="#a78bfa" stroke-width="10.9" stroke-linecap="round" stroke-dasharray="0.1 6.4"><polyline points="173.68421052631578,204.60526315789474 119.21052631578948,250.0 173.68421052631578,295.39473684210526"/><line x1="223.6184210526316" y1="186.44736842105263" x2="196.3815789473684" y2="313.55263157894734"/><polyline points="246.31578947368422,204.60526315789474 300.7894736842105,250.0 246.31578947368422,295.39473684210526"/></g></g><text class="sc s2" x="210.0" y="396" text-anchor="middle" font-family="monospace" font-size="11" fill="#00d4ff">CODE / BUILD / SECURE</text>
+<circle cx="64" cy="432" r="3" fill="#00ffa3" class="live"/><text x="74" y="436" class="mono" font-size="11" fill="#6b7f99">LEARNING. BUILDING. ITERATING.</text>
+<text x="30" y="478" class="mono" font-size="11" fill="#00d4ff" letter-spacing="2">SYSTEM.INFO</text>
+<text x="390" y="478" text-anchor="end" class="mono" font-size="11" fill="#ff6b9d"><tspan class="live">●</tspan> LIVE</text>
+<text x="30" y="500" class="lb">Subject</text><text x="30" y="517" class="vl" style="font-size:12.5px">Malindu Oshan</text>
+<text x="30" y="534" class="lb">Role</text><text x="30" y="551" class="vl" style="font-size:12.5px">Software Developer</text>
+<text x="30" y="568" class="lb">Origin</text><text x="30" y="585" class="vl" style="font-size:12.5px">Sri Lanka</text>
+<text x="30" y="602" class="lb">Education</text><text x="30" y="619" class="vl" style="font-size:12.5px">B.IT 2023–26 · B.Sc Business 2022–26</text>
+<text x="30" y="636" class="lb">Campus</text><text x="30" y="653" class="vl" style="font-size:12.5px">University of Moratuwa</text>
+<text x="30" y="670" class="lb">Certs</text><text x="30" y="687" class="vl" style="font-size:12.5px">CCNA R&amp;S · Cisco CyberOps</text>
+<text x="30" y="704" class="lb">Focus</text><text x="30" y="721" class="vl gr" style="font-size:12.5px">Cybersecurity (learning)</text>
+<text x="30" y="738" class="lb">Core.Lang</text><text x="30" y="755" class="vl" style="font-size:12.5px">TypeScript, JavaScript, Python, Java, C#, C, PHP</text>
+<text x="30" y="772" class="lb">Core.Mobile</text><text x="30" y="789" class="vl" style="font-size:12.5px">React Native, Expo</text>
+<text x="30" y="806" class="lb">Core.Backend</text><text x="30" y="823" class="vl" style="font-size:12.5px">Node.js, Firebase</text>
+<text x="30" y="840" class="lb">Core.Data</text><text x="30" y="857" class="vl" style="font-size:12.5px">MongoDB, MySQL, Firestore</text>
+<text x="30" y="874" class="lb">ToolChain</text><text x="30" y="891" class="vl" style="font-size:12.5px">Git, GitHub, Adobe Illustrator</text>
+<text x="30" y="908" class="lb">Grid.Mail</text><text x="30" y="925" class="vl" style="font-size:12.5px">malinduoshan177@gmail.com</text>
+<text x="30" y="942" class="lb">Grid.GitHub</text><text x="30" y="959" class="vl" style="font-size:12.5px">github.com/malinduoshan</text>
+<text x="30" y="976" class="lb">Grid.LinkedIn</text><text x="30" y="993" class="vl" style="font-size:12.5px">linkedin.com/in/malindu-oshan-b6a38924b</text>
+</svg>
