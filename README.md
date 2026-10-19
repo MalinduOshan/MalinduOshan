@@ -83,12 +83,9 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/malindu-oshan-b6a
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-<a href="https://malinduoshan.github.io/Malindu/#modalVehicAlertDemo" target="_blank">
-  <img src="https://raw.githubusercontent.com/MalinduOshan/VehicAlert/main/assets/demo.gif" alt="VehicAlert Demo" width="300" style="border-radius: 16px;" />
-  <br/>
-  <sub>📱 <b>VehicAlert — Click to watch full mobile app demo</b></sub>
-</a>
-<p align="center" style="margin-top: 10px;">
+<a href="https://malinduoshan.github.io/Malindu/#modalVehicAlertDemo" target="_blank"><img src="assets/vehicalert.svg" width="60%" alt="VehicAlert — Vehicle Document Expiry Reminder App"></a>
+<p align="center">
+  <a href="https://malinduoshan.github.io/Malindu/#modalVehicAlertDemo" target="_blank"><b>Watch Demo 🎬</b></a> &nbsp;•&nbsp; 
   <a href="https://github.com/MalinduOshan/VehicAlert"><b>Explore Repository ↗</b></a>
 </p>
 </td>
